@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 ### 
-- 🌼 eu sou a maria fernanda
-- 🔭 estou cursando a universidade federal do ceará
-- 🌱 futura cientista de dados
-- 🐾 mãe de pet
-- 💜 pronomes: ela/dela
+- 🌼 Eu sou a Maria Fernanda
+- 🔭 Estou cursando a universidade federal do ceará
+- 🌱 Futura cientista de dados
+- 💜 Pronomes: ela/dela
 
